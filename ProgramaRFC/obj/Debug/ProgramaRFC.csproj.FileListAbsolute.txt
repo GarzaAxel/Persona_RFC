@@ -1,0 +1,10 @@
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\bin\Debug\ProgramaRFC.exe.config
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\obj\Debug\ProgramaRFC.Form1.resources
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\obj\Debug\ProgramaRFC.Properties.Resources.resources
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\obj\Debug\ProgramaRFC.csproj.GenerateResource.Cache
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\bin\Debug\ProgramaRFC.exe
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\bin\Debug\ProgramaRFC.pdb
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\obj\Debug\ProgramaRFC.exe
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\obj\Debug\ProgramaRFC.pdb
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\obj\Debug\ProgramaRFC.csprojAssemblyReference.cache
+C:\Users\eljef\Documents\Visual Studio 2013\Projects\ProgramaRFC\ProgramaRFC\obj\Debug\ProgramaRFC.csproj.CoreCompileInputs.cache
